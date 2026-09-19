@@ -23,7 +23,7 @@ A hands-on, self-contained curriculum to take you from Git absolute zero to adva
 ## Progress Log
 
 - Phase 1: Foundations (Added)
-- Phase 2: History & Undoing (Pending)
+- Phase 2: History & Undoing (Added)
 - Phase 3: Branching (Pending)
 - Phase 4: Remotes & Collaboration (Pending)
 - Phase 5: Advanced / Recovery (Pending)
