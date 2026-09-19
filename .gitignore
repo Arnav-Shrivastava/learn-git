@@ -1,0 +1,7 @@
+# Sandbox / Practice environments
+practice-areas/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
