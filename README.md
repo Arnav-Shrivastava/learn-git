@@ -26,5 +26,5 @@ A hands-on, self-contained curriculum to take you from Git absolute zero to adva
 - Phase 2: History & Undoing (Added)
 - Phase 3: Branching (Added)
 - Phase 4: Remotes & Collaboration (Added)
-- Phase 5: Advanced / Recovery (Pending)
+- Phase 5: Advanced / Recovery (Added)
 - Phase 6: Fire Drills & Cheatsheet (Pending)
